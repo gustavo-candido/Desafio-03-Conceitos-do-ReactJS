@@ -19,7 +19,7 @@ simple page capable to list, create e delete repositories
 **You need to install [Node.js](https://nodejs.org/en/download/)
 and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
-```git clone https://github.com/gustavo-candido/Desafio-02-Conceitos-do-Node.js.git```
+```git clone https://github.com/gustavo-candido/Desafio-03-Conceitos-do-ReactJS.git```
 
 
 **Install dependencies:**
