@@ -1,4 +1,4 @@
-# :rocket: Desafio-03-Conceitos-do-ReactJS
+# :rocket: Challenge #3 React.js concepts
 This repository its part of my web studies with Rocketseat bootcamp (GoStack).
 
 
